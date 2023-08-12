@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterKahenya
-- 👀 I’m interested in Engineering(Backend) and Machine Learning
+- 👀 I’m interested in SWE & ML
 - 💞️ I’m looking to collaborate on open-source ML projects
 - 📫 How to reach me email: peterkahenyanjoki@gmail.com
 
