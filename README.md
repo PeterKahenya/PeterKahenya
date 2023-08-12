@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PeterKahenya
-- 👀 I’m interested in Machine Learning and Quantum Computing
-- 🌱 I’m currently learning Shor's Algorithm ~ QFT
-- 💞️ I’m looking to collaborate on open-source QC projects
+- 👀 I’m interested in Engineering(Backend) and Machine Learning
+- 💞️ I’m looking to collaborate on open-source ML projects
 - 📫 How to reach me email: peterkahenyanjoki@gmail.com
 
 <!---
