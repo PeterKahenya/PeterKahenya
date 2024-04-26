@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PeterKahenya
-- 👀 I’m interested in SWE & ML
-- 💞️ I’m looking to collaborate on open-source ML projects
+- 👀 I’m a Data Scientist with experience in GenAI
 - 📫 Reach me via email: peterkahenyanjoki@gmail.com
 
 <!---
